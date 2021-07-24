@@ -1,0 +1,34 @@
+.title{
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: cadetblue;
+    font-size: extra-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: rgb(250, 250, 250);
+    font-family: cursive;
+    font-size: larger;
+}
+h3{
+    color: cornsilk;
+}
+body{
+    background-color: rgb(155, 177, 117);
+}
+div{
+    background-color: darkslategrey;
+}
+#country tr{
+    border: 2px black solid;
+    background-color: burlywood;
+}
+#titulo td{
+    font-weight: 600;
+    background-color: rgb(185, 117, 27);
+}
+p{
+    color: cornsilk;
+}
